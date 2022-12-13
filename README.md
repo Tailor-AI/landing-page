@@ -3,4 +3,4 @@ The Odin project, Landing page
 
 Desired design:
 
-![Design](./images/01.png)
+![Design](./images/01.png) | ![Colors and fonts](./images/02.png)
