@@ -7,4 +7,4 @@ The Odin project, Landing page
 | -------------------------- | ------------------------------------ |
 | My design:                 | Nothing here yet                     |
 | -------------------------- | ------------------------------------ |
-| ![MyDesign](https://tailor-ai.github.io/landing-page/)                           |                                      |
+| ![MyDesign](https://tailor-ai.github.io/landing-page/)            |
