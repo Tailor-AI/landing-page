@@ -150,8 +150,36 @@ body{
 
 .main-bottom{
     display: flex;
+    margin: 0px 120px 80px 120px;
+    background-color: #3882F6;
+    padding: 40px 80px;
+    border-radius: 8px;
 }
 
+.bottom-text{
+    color: #F9FAF8;
+}
+
+.imperativ-text{
+    font-weight: bold;
+}
+
+.signup-text{
+    font-weight:lighter;
+    font-size: smaller;
+}
+
+.bottom-button{
+    display: flex;
+    margin-left: auto;
+    color: #F9FAF8;
+    background-color: #3882F6;
+    border-color: #F9FAF8;
+    border-style: solid;
+    border-radius: 8px;
+    padding: 8px 32px;
+    align-self: center;
+}
 .main-footer{
     display: flex;
     margin-top: auto;
