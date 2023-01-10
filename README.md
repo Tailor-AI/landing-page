@@ -5,6 +5,5 @@ The Odin project, Landing page
 | -------------------------- | ------------------------------------ |
 | ![Design](./images/01.png) | ![Colors and fonts](./images/02.png) |
 | -------------------------- | ------------------------------------ |
-| My design:                                                        |
-| ----------------------------------------------------------------- |
+| My current design:                                                |
 | [MyDesign](https://tailor-ai.github.io/landing-page/)             |
